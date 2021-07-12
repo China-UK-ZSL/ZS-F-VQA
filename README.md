@@ -7,5 +7,5 @@ In this work,  we propose a Zero-shot VQA algorithm using knowledge graphs and a
 ### Dataset Description
 
 ### Requirements
-ttt
+
 
