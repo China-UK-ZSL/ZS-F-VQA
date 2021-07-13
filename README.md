@@ -34,7 +34,7 @@ Image feature:
 
 
 ### Model
-![Model_architecture](https://github.com/China-UK-ZSL/ZS-F-VQA/blob/main/figures/Model_architecture.pdf)
+![Model_architecture](https://github.com/China-UK-ZSL/ZS-F-VQA/blob/main/figures/Model_architecture.png)
 
 
 
@@ -52,7 +52,7 @@ Bash run_Zsl_VQA.sh
 Results will be saved to: to be done
 
 ### Explainable
-![explainable](https://github.com/China-UK-ZSL/ZS-F-VQA/blob/main/figures/all_explainable.pdf)
+![explainable](https://github.com/China-UK-ZSL/ZS-F-VQA/blob/main/figures/all_explainable.png)
 
 ### Acknowledgements
 Thanks for the following works:
