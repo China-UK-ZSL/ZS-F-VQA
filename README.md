@@ -2,7 +2,10 @@
 
 Code and Data for the paper: [*Zero-shot Visual Question Answering using Knowledge Graphs*](https://arxiv.org/abs/2107.05348).
 
-In this work,  we propose a Zero-shot VQA algorithm using knowledge graphs and a mask-based learning mechanism for better incorporating external knowledge, and present new answer-based Zero-shot VQA splits for the F-VQA dataset. 
+>In this work,  we propose a Zero-shot VQA algorithm using knowledge graphs and a mask-based learning mechanism for better incorporating external knowledge, and present new answer-based Zero-shot VQA splits for the F-VQA dataset. 
+
+### Model
+![Model_architecture](https://github.com/China-UK-ZSL/ZS-F-VQA/blob/main/figures/Model_architecture.png)
 
 
 ### Requirements
@@ -30,11 +33,6 @@ Location of 5 new **ZSL** train/test data split: to be done
 
 Image feature:
 - fvqa-resnet-14x14.h5 pretrained:  [here](https://github.com/hexiang-hu/answer_embedding) 
-
-
-
-### Model
-![Model_architecture](https://github.com/China-UK-ZSL/ZS-F-VQA/blob/main/figures/Model_architecture.png)
 
 
 
