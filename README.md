@@ -58,7 +58,7 @@ Thanks for the following works:
 
 
 ### TODO:
-**to be release:**
+**to be released:**
 - [ ] code 
 - [ ] pretrain model 
 - [ ] runing script 
