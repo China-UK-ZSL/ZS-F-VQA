@@ -36,7 +36,7 @@ Image feature:
 
 
 
-### Running the code
+### Running
 General VQA:
 ```bash
 Bash run_General_VQA.sh
