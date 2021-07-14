@@ -58,7 +58,7 @@ Thanks for the following works:
 
 
 ### TODO:
-**to be released（in 3 week, I promise）:**
+**to be released（in 3 weeks, I promise）:**
 - [ ] code 
 - [ ] pretrain model 
 - [ ] running script 
