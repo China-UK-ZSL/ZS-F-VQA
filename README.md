@@ -61,7 +61,7 @@ Thanks for the following works:
 **to be released:**
 - [ ] code 
 - [ ] pretrain model 
-- [ ] runing script 
+- [ ] running script 
 - [ ] finish readme
 - [ ] more dataset
 - [ ] more detailed result
