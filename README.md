@@ -1,6 +1,6 @@
 # ZS-F-VQA
 
-Code and Data for the paper: [*Zero-shot Visual Question Answering using Knowledge Graph*](https://arxiv.org/abs/2107.05348).
+Code and Data for the paper: [*Zero-shot Visual Question Answering using Knowledge Graph*](https://arxiv.org/abs/2107.05348) [ ISWC 2021 ].
 
 >In this work,  we propose a Zero-shot VQA algorithm using knowledge graphs and a mask-based learning mechanism for better incorporating external knowledge, and present new answer-based Zero-shot VQA splits for the F-VQA dataset. 
 
@@ -57,11 +57,15 @@ Download it and overwrite ```data/KG_VQA/fvqa/model_save```
                [--ans_net_lay {0,1,2}] [--fact_map {0,1}] [--relation_map {0,1}] [--now_test {0,1}] [--save_model {0,1}] [--joint_test_way {0,1}] [--top_rel TOP_REL]
                [--top_fact TOP_FACT] [--soft_score SOFT_SCORE] [--mrr MRR]
 ```
-For more details: ```config.py```
+
+Available model for training: ```Up-Down```, `BAN`, `SAN`, `MLP`
+
+For more details: ```code/config.py```
 
 ---
 
 ### Running
+```cd code```
 
 **General VQA:**
 - train:
@@ -90,10 +94,17 @@ For more details: ```config.py```
 <br />
 
 ## Acknowledgements
-
-
 Thanks for the following releasd works:
 >[SciencePlots](https://github.com/garrettj403/SciencePlots), [ramen](https://github.com/erobic/ramen), [GAE](https://github.com/zfjsail/gae-pytorch), [vqa-winner-cvprw-2017](https://github.com/markdtw/vqa-winner-cvprw-2017), [faster-rcnn](https://github.com/jwyang/faster-rcnn.pytorch), [VQA](https://github.com/Shivanshu-Gupta/Visual-Question-Answering), [BAN](https://github.com/jnhwkim/ban-vqa), [commonsense-kg-completion](https://github.com/allenai/commonsense-kg-completion), [bottom-up-attention-vqa](https://github.com/hengyuan-hu/bottom-up-attention-vqa), [FVQA](https://github.com/wangpengnorman/FVQA), [answer_embedding](https://github.com/hexiang-hu/answer_embedding)
 
+## Cite:
+```bigquery
+@article{chen2021zero,
+  title={Zero-shot Visual Question Answering using Knowledge Graph},
+  author={Chen, Zhuo and Chen, Jiaoyan and Geng, Yuxia and Pan, Jeff Z and Yuan, Zonggang and Chen, Huajun},
+  journal={arXiv preprint arXiv:2107.05348},
+  year={2021}
+}
+```
 
 
