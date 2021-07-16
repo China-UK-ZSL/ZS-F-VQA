@@ -45,7 +45,7 @@ Reference:
 
 ---
 
-### Pretrained Model [url](https://www.dropbox.com/sh/vp5asuivqpiir5w/AAC3k_gELrP4ydNNok_o1vlYa?dl=0)
+### Pretrained Model ([url](https://www.dropbox.com/sh/vp5asuivqpiir5w/AAC3k_gELrP4ydNNok_o1vlYa?dl=0))
 
 Download it and overwrite ```data/KG_VQA/fvqa/model_save```
 
