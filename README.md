@@ -30,6 +30,8 @@ Location of 5 **ZS-F-VQA** train / test data split:
 - ```data/KG_VQA/fvqa/exp_data/train_seen_data```
 - ```data/KG_VQA/fvqa/exp_data/test_unseen_data```
 
+Answers are available at ``data/KG_VQA/data/FVQA/new_dataset_release/.``
+
 Image folder:
 ```data/KG_VQA/fvqa/exp_data/images/images```
 Image feature:
