@@ -43,6 +43,7 @@ Reference:
 [*FVQA: Fact-based Visual Question Answering*](https://arxiv.org/pdf/1606.05433) 
 **:** [GitHub link](https://github.com/wangpengnorman/FVQA)
 
+---
 
 ### Pretrained Model [url](https://www.dropbox.com/sh/vp5asuivqpiir5w/AAC3k_gELrP4ydNNok_o1vlYa?dl=0)
 
@@ -58,6 +59,7 @@ Download it and overwrite ```data/KG_VQA/fvqa/model_save```
 ```
 For more details: ```config.py```
 
+---
 
 ### Running
 
