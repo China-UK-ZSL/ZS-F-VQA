@@ -20,8 +20,6 @@ For more detail of requirements:
  pip install -r requirements.txt
 ```
 
-<br />
-
 ### Data
 
 Location of 5 **F-VQA** train / test data split:
@@ -45,14 +43,11 @@ Reference:
 [*FVQA: Fact-based Visual Question Answering*](https://arxiv.org/pdf/1606.05433) 
 **:** [GitHub link](https://github.com/wangpengnorman/FVQA)
 
-<br />
 
-### Pretrained Model
-For fast test : [url](https://www.dropbox.com/sh/vp5asuivqpiir5w/AAC3k_gELrP4ydNNok_o1vlYa?dl=0)
+### Pretrained Model [url](https://www.dropbox.com/sh/vp5asuivqpiir5w/AAC3k_gELrP4ydNNok_o1vlYa?dl=0)
 
 Download it and overwrite ```data/KG_VQA/fvqa/model_save```
 
-<br />
 
 ### Parameter
 ```
@@ -63,7 +58,6 @@ Download it and overwrite ```data/KG_VQA/fvqa/model_save```
 ```
 For more details: ```config.py```
 
-<br />
 
 ### Running
 
