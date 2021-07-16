@@ -11,8 +11,6 @@ Code and Data for the paper: [*Zero-shot Visual Question Answering using Knowled
 
 ## Usage
 
----
-
 ### Requirements
 - `python >= 3.5`
 - `PyTorch >= 1.0.0`
@@ -91,7 +89,6 @@ For more details: ```config.py```
 
 ## Explainable
 
----
 ![explainable](https://github.com/China-UK-ZSL/ZS-F-VQA/blob/main/figures/all_explainable.png)
 
 <br />
