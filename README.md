@@ -69,6 +69,10 @@ For more details: ```code/config.py```
 ### Running
 ```cd code```
 
+**Data check:**
+
+- ```python deal_data.py --exp_name data_check```
+
 **General VQA:**
 - train:
 ```bash run_FVQA_train.sh```
