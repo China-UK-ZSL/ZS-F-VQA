@@ -86,12 +86,10 @@ For more details: ```code/config.py```
 ```bash run_ZSL.sh```
 
 **Note**: 
-- open the `.sh` file for <td>&emsp;<a href="#Parameter">parameter</a></td> modification.
+- open the `.sh` file for<td>&emsp;<a href="#Parameter">parameter</a></td> modification.
 
 **Result:**
-
 - Log file will be saved to: ```code/dump```
-
 - model will be saved to: ```data/KG_VQA/fvqa/model_save```
 
 <br />
