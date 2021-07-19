@@ -99,8 +99,6 @@ For more details: ```code/config.py```
 ## Acknowledgements
 Thanks for the following releasd works:
 >[SciencePlots](https://github.com/garrettj403/SciencePlots), [ramen](https://github.com/erobic/ramen), [GAE](https://github.com/zfjsail/gae-pytorch), [vqa-winner-cvprw-2017](https://github.com/markdtw/vqa-winner-cvprw-2017), [faster-rcnn](https://github.com/jwyang/faster-rcnn.pytorch), [VQA](https://github.com/Shivanshu-Gupta/Visual-Question-Answering), [BAN](https://github.com/jnhwkim/ban-vqa), [commonsense-kg-completion](https://github.com/allenai/commonsense-kg-completion), [bottom-up-attention-vqa](https://github.com/hengyuan-hu/bottom-up-attention-vqa), [FVQA](https://github.com/wangpengnorman/FVQA), [answer_embedding](https://github.com/hexiang-hu/answer_embedding)
->[*FVQA: Fact-based Visual Question Answering*](https://arxiv.org/pdf/1606.05433) 
-**:** [GitHub link](https://github.com/wangpengnorman/FVQA)
 
 
 ## Cite:
