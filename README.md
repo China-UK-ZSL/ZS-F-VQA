@@ -40,6 +40,7 @@ Image feature:
 The generated file ```fvqa-resnet-14x14.h5``` (about 2.3 GB) should be placed in : 
 
 ```data/KG_VQA/fvqa/exp_data/common_data/```
+
 ---
 
 ### Pretrained Model ([url](https://www.dropbox.com/sh/vp5asuivqpiir5w/AAC3k_gELrP4ydNNok_o1vlYa?dl=0))
