@@ -52,7 +52,7 @@ Reference:
 Download it and overwrite ```data/KG_VQA/fvqa/model_save```
 
 
-### Parameter
+### [Parameter](#content)
 ```
 [--KGE {TransE,ComplEx,TransR,DistMult}] [--KGE_init KGE_INIT] [--GAE_init GAE_INIT] [--ZSL ZSL] [--entity_num {all,4302}] [--data_choice {0,1,2,3,4}]
                [--name NAME] [--no-tensorboard] --exp_name EXP_NAME [--dump_path DUMP_PATH] [--exp_id EXP_ID] [--random_seed RANDOM_SEED] [--freeze_w2v {0,1}]
@@ -69,7 +69,7 @@ For more details: ```code/config.py```
 ### Running
 ```cd code```
 
-**Data check:**
+**For data check:**
 
 - ```python deal_data.py --exp_name data_check```
 
@@ -81,9 +81,12 @@ For more details: ```code/config.py```
 
 **ZSL/GZSL VQA:**
 - train:
-```Bash run_ZSL_train.sh```
+```bash run_ZSL_train.sh```
 - test:
-```Bash run_ZSL.sh```
+```bash run_ZSL.sh```
+
+**Note**: 
+- open the `.sh` file for <td>&emsp;<a href="#Parameter">parameter</a></td> modification.
 
 **Result:**
 
