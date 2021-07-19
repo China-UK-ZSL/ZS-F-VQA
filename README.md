@@ -37,14 +37,9 @@ Image folder:
 Image feature:
 - **fvqa-resnet-14x14.h5 pretrained**:  You could generate a pretrained image feature via this way ([Guidance](https://github.com/hexiang-hu/answer_embedding/issues/3))
 
-The generated file ```fvqa-resnet-14x14.h5``` (about 2.3 GB) should be place in : 
+The generated file ```fvqa-resnet-14x14.h5``` (about 2.3 GB) should be placed in : 
 
 ```data/KG_VQA/fvqa/exp_data/common_data/```
-
-Reference:
-[*FVQA: Fact-based Visual Question Answering*](https://arxiv.org/pdf/1606.05433) 
-**:** [GitHub link](https://github.com/wangpengnorman/FVQA)
-
 ---
 
 ### Pretrained Model ([url](https://www.dropbox.com/sh/vp5asuivqpiir5w/AAC3k_gELrP4ydNNok_o1vlYa?dl=0))
@@ -103,6 +98,9 @@ For more details: ```code/config.py```
 ## Acknowledgements
 Thanks for the following releasd works:
 >[SciencePlots](https://github.com/garrettj403/SciencePlots), [ramen](https://github.com/erobic/ramen), [GAE](https://github.com/zfjsail/gae-pytorch), [vqa-winner-cvprw-2017](https://github.com/markdtw/vqa-winner-cvprw-2017), [faster-rcnn](https://github.com/jwyang/faster-rcnn.pytorch), [VQA](https://github.com/Shivanshu-Gupta/Visual-Question-Answering), [BAN](https://github.com/jnhwkim/ban-vqa), [commonsense-kg-completion](https://github.com/allenai/commonsense-kg-completion), [bottom-up-attention-vqa](https://github.com/hengyuan-hu/bottom-up-attention-vqa), [FVQA](https://github.com/wangpengnorman/FVQA), [answer_embedding](https://github.com/hexiang-hu/answer_embedding)
+>[*FVQA: Fact-based Visual Question Answering*](https://arxiv.org/pdf/1606.05433) 
+**:** [GitHub link](https://github.com/wangpengnorman/FVQA)
+
 
 ## Cite:
 ```bigquery
