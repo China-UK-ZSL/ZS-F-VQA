@@ -82,7 +82,7 @@ For more details: ```code/config.py```
 ```bash run_ZSL.sh```
 
 **Note**: 
-- open the `.sh` file for<td>&emsp;<a href="#Parameter">parameter</a></td> modification.
+- you can open the `.sh` file for<a href="#Parameter">parameter</a>modification.
 
 **Result:**
 - Log file will be saved to: ```code/dump```
