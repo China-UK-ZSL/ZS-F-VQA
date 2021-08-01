@@ -1,6 +1,8 @@
 # ZS-F-VQA
 
-![](https://img.shields.io/badge/version-1.0.1-blue) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=plastic&logo=PyTorch&logoColor=white)
+![](https://img.shields.io/badge/version-1.0.1-blue)
+[![license](https://img.shields.io/github/license/mashape/apistatus.svg?maxAge=2592000)](https://github.com/China-UK-ZSL/ZS-F-VQA/blob/main/LICENSE)
+[![arxiv badge](https://img.shields.io/badge/arXiv-2107.05348-red)](http://arxiv.org/abs/2107.05348)
 
 [*Zero-shot Visual Question Answering using Knowledge Graph*](https://arxiv.org/abs/2107.05348) [ ISWC 2021 ]. 
 
@@ -15,7 +17,7 @@
 
 ### Requirements
 - `python >= 3.5`
-- `PyTorch >= 1.0.0`
+- `PyTorch >= 1.6.0`
 
 For more detail of requirements: 
 ```bash
