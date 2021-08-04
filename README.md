@@ -120,4 +120,6 @@ Thanks for the following released works:
 }
 ```
 
+For more details, please submit a issue or contact [Zhuo Chen](https://github.com/hackerchenzhuo).
+
 
