@@ -40,13 +40,13 @@ Answers are available at ``data/KG_VQA/data/FVQA/new_dataset_release/.``
 - Image folder (put all your `.JPEG`/`.jpg` file here):
 ```data/KG_VQA/fvqa/exp_data/images/images```
 - Image feature: `fvqa-resnet-14x14.h5` pretrained: [GoogleDrive](https://drive.google.com/file/d/1YG9hByw01_ZQ6_mKwehYiddG3x2Cxatu/view?usp=sharing) or [BaiduCloud](https://pan.baidu.com/s/1ks84AWSXxJJ_7LwnzWdEnQ) (password:16vd)
-- Origin image are available at [FVQA](https://github.com/wangpengnorman/FVQA) with [download_link](https://www.dropbox.com/s/iyz6l7jhbt6jb7q/new_dataset_release.zip?dl=0).
-- Other vqa dataset: You could generate a pretrained image feature via this way ([Guidance](https://github.com/hexiang-hu/answer_embedding/issues/3) / [code](https://github.com/Cyanogenoid/pytorch-vqa/blob/master/preprocess-images.py))
+- Origin images are available at [FVQA](https://github.com/wangpengnorman/FVQA) with [download_link](https://www.dropbox.com/s/iyz6l7jhbt6jb7q/new_dataset_release.zip?dl=0).
+- Other vqa dataset: you could generate a pretrained image feature via this way ([Guidance](https://github.com/hexiang-hu/answer_embedding/issues/3) / [code](https://github.com/Cyanogenoid/pytorch-vqa/blob/master/preprocess-images.py))
 - The generated `.h` file should be placed in :
 ```data/KG_VQA/fvqa/exp_data/common_data/.```
   
 **Answer / Qusetion vocab:**
-- The generated file `answer.vocab.fvqa.json` / `question.vocab.fvqa.json`  now are available at :
+- The generated file `answer.vocab.fvqa.json` & `question.vocab.fvqa.json`  now are available at :
 ```data/KG_VQA/fvqa/exp_data/common_data/.```
 - Other vqa dataset: code for [process answer vocab](https://github.com/hexiang-hu/answer_embedding/blob/master/tools/preprocess_answer.py) and [process questions vocab](https://github.com/hexiang-hu/answer_embedding/blob/master/tools/preprocess_question.py)
 
@@ -66,6 +66,8 @@ Download it and overwrite ```data/KG_VQA/fvqa/model_save```
 ```
 
 Available model for training: ```Up-Down```, `BAN`, `SAN`, `MLP`
+
+**You can try your own model via adding it (`.py`) to :** `main/code/model/.`
 
 For more details: ```code/config.py```
 
