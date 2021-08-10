@@ -4,6 +4,7 @@ import random
 import torch
 from easydict import EasyDict as edict
 import argparse
+import pdb
 
 
 class cfg():
@@ -15,10 +16,8 @@ class cfg():
         self.joint_test_way = 0
 
         self.this_dir = osp.dirname(__file__)
-        self.data_root = osp.abspath(osp.join(self.this_dir, '..', 'data', 'KG_VQA'))
-
+        self.data_root = osp.abspath(osp.join(self.this_dir, '..', '..', 'data', 'KG_VQA'))
         self.this_dir = osp.dirname(__file__)
-        self.data_root = self.data_root
         self.project_root = osp.abspath(osp.join(self.this_dir, '..'))
         self.method_choice = "KG"
         self.ans_fusion = 'RNN_concate'
