@@ -13,3 +13,5 @@ torchvision==0.7.0
 Pillow==8.2.0
 python_Levenshtein==0.12.2
 SciencePlots
+Levenshtein
+wordninja
