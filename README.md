@@ -113,12 +113,13 @@ Thanks for the following released works:
 
 
 ## Cite:
+Please condiser citing this paper if you use the code
 ```bigquery
-@article{chen2021zero,
+@inproceedings{chen2021zero,
   title={Zero-shot Visual Question Answering using Knowledge Graph},
   author={Chen, Zhuo and Chen, Jiaoyan and Geng, Yuxia and Pan, Jeff Z and Yuan, Zonggang and Chen, Huajun},
-  journal={arXiv preprint arXiv:2107.05348},
-  year={2021}
+  booktitle={International semantic web conference},
+  year={2021},
 }
 ```
 
