@@ -115,20 +115,13 @@ Thanks for the following released works:
 ## Cite:
 Please condiser citing this paper if you use the code
 ```bigquery
-@inproceedings{DBLP:conf/semweb/0007CGPYC21,
-  author    = {Zhuo Chen and
-               Jiaoyan Chen and
-               Yuxia Geng and
-               Jeff Z. Pan and
-               Zonggang Yuan and
-               Huajun Chen},
-  title     = {Zero-Shot Visual Question Answering Using Knowledge Graph},
-  booktitle = {{ISWC}},
-  series    = {Lecture Notes in Computer Science},
-  volume    = {12922},
-  pages     = {146--162},
-  publisher = {Springer},
-  year      = {2021}
+@inproceedings{chen2021zero,
+  title={Zero-Shot Visual Question Answering Using Knowledge Graph},
+  author={Chen, Zhuo and Chen, Jiaoyan and Geng, Yuxia and Pan, Jeff Z and Yuan, Zonggang and Chen, Huajun},
+  booktitle={International Semantic Web Conference},
+  pages={146--162},
+  year={2021},
+  organization={Springer}
 }
 ```
 
