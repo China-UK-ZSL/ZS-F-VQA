@@ -1,9 +1,9 @@
-[**中文**](https://github.com/zjukg/ZS-F-VQA/into/README_CN.md) | [**English**](https://github.com/zjukg/ZS-F-VQA/)
+<!-- [**中文**](https://github.com/zjukg/ZS-F-VQA/into/README_CN.md) | [**English**](https://github.com/zjukg/ZS-F-VQA/) -->
 
 
 
 <p align="center">
-    <font size=6><strong>Zero-shot VQA algorithm</strong>
+    <font size=17><strong>Zero-shot VQA algorithm</strong>
     <center><strong>using Knowledge Graph</strong></center></font>
 </p>
 
