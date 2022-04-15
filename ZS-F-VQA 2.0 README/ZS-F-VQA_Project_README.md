@@ -1,6 +1,10 @@
 [**中文**](https://github.com/zjukg/ZS-F-VQA/into/README_CN.md) | [**English**](https://github.com/zjukg/ZS-F-VQA/)
 
 
+<p align="center">
+    <a href="https://github.com/zjunlp/openue"> <img src="https://raw.githubusercontent.com/zjunlp/openue/master/docs/images/logo_zju_klab.png" width="400"/></a>
+</p>
+
 <!-- <p align="center">
     <a href="https://github.com/zjukg/ZS-F-VQA"> <img src="https://raw.githubusercontent.com/zjunlp/openue/master/docs/images/logo_zju_klab.png" width="400"/></a>
 </p> -->
