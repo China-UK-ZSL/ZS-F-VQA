@@ -2,10 +2,12 @@
 
 
 
-<p align="center">
+<!-- <p align="center">
     <font size=17><strong>Zero-shot VQA algorithm</strong>
     <center><strong>using Knowledge Graph</strong></center></font>
-</p>
+</p> -->
+
+# Zero-shot VQA algorithm using Knowledge Graph
 
 
 <!-- # ZS-F-VQA -->
