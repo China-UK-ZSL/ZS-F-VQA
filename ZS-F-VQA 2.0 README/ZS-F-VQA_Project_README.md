@@ -1,4 +1,4 @@
-[**中文**](https://github.com/zjukg/ZS-F-VQA/into/README_CN.md) | [**English**](https://github.com/zjukg/ZS-F-VQA/)
+<!-- [**中文**](https://github.com/zjukg/ZS-F-VQA/into/README_CN.md) | [**English**](https://github.com/zjukg/ZS-F-VQA/) -->
 
 
 <p align="center">
@@ -7,11 +7,11 @@
 
 
 
-<p align="center">
+<!-- <p align="center">
     <font size=17><strong>Zero-shot VQA algorithm using Knowledge Graph</strong></font>
-</p>
+</p> -->
 
-
+# Zero-shot VQA algorithm using Knowledge Graph
 <!-- # ZS-F-VQA -->
 [![](https://img.shields.io/badge/version-1.0.1-blue)](https://github.com/China-UK-ZSL/ZS-F-VQA)
 [![license](https://img.shields.io/github/license/mashape/apistatus.svg?maxAge=2592000)](https://github.com/China-UK-ZSL/ZS-F-VQA/blob/main/LICENSE)
