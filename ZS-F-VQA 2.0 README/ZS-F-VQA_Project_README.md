@@ -8,7 +8,7 @@
 
 
 <p align="center">
-    <font size=7><strong>Zero-shot VQA algorithm using Knowledge Graph</strong></font>
+    <font size=17><strong>Zero-shot VQA algorithm using Knowledge Graph</strong></font>
 </p>
 
 
