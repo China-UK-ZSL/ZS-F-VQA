@@ -333,6 +333,7 @@ class Runner:
         save_path = os.path.join(self.args.FVQA.model_save_path, function)
         save_path = os.path.join(save_path, f'{target}_{model_name}_{self.args.FVQA.data_choice}.pkl')
 
+        # you can try: e.g. torch.load(save_path, map_location={'cuda:1': 'cuda:0'} )  if some error arise        
         model.load_state_dict(torch.load(save_path))
         print(f"loading {save_path} model done!")
 
