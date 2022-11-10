@@ -4,7 +4,7 @@
 [![license](https://img.shields.io/github/license/mashape/apistatus.svg?maxAge=2592000)](https://github.com/China-UK-ZSL/ZS-F-VQA/blob/main/LICENSE)
 [![arxiv badge](https://img.shields.io/badge/arXiv-2107.05348-red)](http://arxiv.org/abs/2107.05348)
 
-[*Zero-shot Visual Question Answering using Knowledge Graph*](https://arxiv.org/abs/2107.05348) [ ISWC 2021 ]. 
+[*Zero-shot Visual Question Answering using Knowledge Graph*](https://arxiv.org/abs/2107.05348) [ ISWC 2021 ] 
 
 >In this work, we propose a Zero-shot VQA algorithm using knowledge graphs and a mask-based learning mechanism for better incorporating external knowledge, and present new answer-based Zero-shot VQA splits for the F-VQA dataset.
 
