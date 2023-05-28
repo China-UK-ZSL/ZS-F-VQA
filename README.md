@@ -39,7 +39,9 @@ Answers are available at ``data/KG_VQA/data/FVQA/new_dataset_release/.``
 **Image:**
 - Image folder (put all your `.JPEG`/`.jpg` file here):
 ```data/KG_VQA/fvqa/exp_data/images/images```
-- Image feature: `fvqa-resnet-14x14.h5` pretrained: [GoogleDrive](https://drive.google.com/file/d/1YG9hByw01_ZQ6_mKwehYiddG3x2Cxatu/view?usp=sharing) or [BaiduCloud](https://pan.baidu.com/s/1ks84AWSXxJJ_7LwnzWdEnQ) (password:16vd)
+- Image feature: 
+  - `fvqa-resnet-14x14.h5` pretrained: [GoogleDrive](https://drive.google.com/file/d/1YG9hByw01_ZQ6_mKwehYiddG3x2Cxatu/view?usp=sharing) or [BaiduCloud](https://pan.baidu.com/s/1ks84AWSXxJJ_7LwnzWdEnQ) (password:16vd)
+  -  `fvqa36_imgid2idx.pkl` and `fvqa_36.hdf5` pretrained: [GoogleDrive](https://drive.google.com/file/d/1wfgmPhNF7DR7_yEAr8lxjtdsko7lLCWj/view?usp=sharing)
 - Origin images are available at [FVQA](https://github.com/wangpengnorman/FVQA) with [download_link](https://www.dropbox.com/s/iyz6l7jhbt6jb7q/new_dataset_release.zip?dl=0).
 - Other vqa dataset: you could generate a pretrained image feature via this way ([Guidance](https://github.com/hexiang-hu/answer_embedding/issues/3) / [code](https://github.com/Cyanogenoid/pytorch-vqa/blob/master/preprocess-images.py))
 - The generated `.h` file should be placed in :
